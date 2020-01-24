@@ -5,7 +5,9 @@ import styled from "styled-components";
 
 const Width100 = styled.img`
   border: 5px solid red;
-  width: ;
+  width: 100%;
+  margin-top: 5%;
+  margin-bottom: 5%;
 `;
 
 export default function Body(props) {
